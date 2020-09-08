@@ -1,0 +1,273 @@
+[class~=template4_v1] {
+    font-size: 46px;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick],
+[class~=template4_v1] [class~=showAnswerTickMark],
+[class~=template4_v1] [class~=questionContainer],
+[class~=template4_v1] [class~=optionContainer] [class~=optText] {
+    text-align: center;
+}
+
+.template4_v1 .questionContainer .question,
+[class~=template4_v1] [class~=optionContainer] [class~=optClick],
+[class~=template4_v1] [class~=optionContainer] [class~=optText] {
+    display: inline-block;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick] {
+    position: relative;
+}
+
+[class~=template4_v1] [class~=itemContainer],
+.template4_v1 .optionContainer {}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick] {
+    width: 37.5pt;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick] {
+    height: .697916667in;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick] {
+    background: url("../../assets/images/p79ex22/line.png") no-repeat;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick] {
+    padding-left: .052083333in;
+}
+
+[class~=template4_v1] [class~=questionContainer] {
+    margin-bottom: .208333333in;
+}
+
+[class~=template4_v1] {
+    height: 100%;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick],
+.template4_v1 .questionContainer .question {
+    cursor: pointer;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick] {
+    margin-left: 10px;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick] {
+    margin-bottom: 0;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick] {
+    margin-right: 10px;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick] {
+    margin-top: 0;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick] {
+    background-position: 0in 1.0625pc;
+}
+
+[class~=template4_v1] [class~=customRow] {
+    margin-bottom: .364583333in;
+}
+
+.template4_v1 .questionContainer .question {
+    border-left-width: .1875pc;
+}
+
+.template4_v1 .questionContainer .question {
+    border-bottom-width: .1875pc;
+}
+
+.template4_v1 .questionContainer .question {
+    border-right-width: .1875pc;
+}
+
+.template4_v1 .questionContainer .question {
+    border-top-width: .1875pc;
+}
+
+.template4_v1 .questionContainer .question {
+    border-left-style: solid;
+}
+
+.template4_v1 .showAnswerCrossMark,
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick],
+[class~=template4_v1] [class~=showAnswerTickMark],
+[class~=template4_v1] [class~=tickMarkContainer] {
+    position: absolute;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] {
+    top: 0in;
+}
+
+.template4_v1 .questionContainer .question {
+    border-bottom-style: solid;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] {
+    left: 0pc;
+}
+
+.template4_v1 .questionContainer .question {
+    border-right-style: solid;
+}
+
+.template4_v1 .questionContainer .question {
+    border-top-style: solid;
+}
+
+.template4_v1 .questionContainer .question {
+    border-left-color: #0fa0c5;
+}
+
+.template4_v1 .showAnswerCrossMark,
+[class~=template4_v1] [class~=showAnswerTickMark] {
+    top: -2.1875pc;
+}
+
+.template4_v1 .questionContainer .question {
+    border-bottom-color: #0fa0c5;
+}
+
+.template4_v1 .questionContainer .question {
+    border-right-color: #0fa0c5;
+}
+
+.template4_v1 .questionContainer .question {
+    border-top-color: #0fa0c5;
+}
+
+.template4_v1 .questionContainer .question {
+    border-image: none;
+}
+
+[class~=template4_v1] [class~=showAnswerTickMark],
+.template4_v1 .showAnswerCrossMark {
+    left: .364583333in;
+}
+
+.template4_v1 .questionContainer .question {
+    padding-left: .9375pc;
+}
+
+.template4_v1 .questionContainer .question {
+    padding-bottom: .3125pc;
+}
+
+.template4_v1 .questionContainer .question {
+    padding-right: .9375pc;
+}
+
+.template4_v1 .questionContainer .question {
+    padding-top: 0pc;
+}
+
+.template4_v1 .questionContainer .question {
+    border-radius: 1.25pc;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=num],
+.template4_v1 .questionContainer .question {
+    font-weight: bold;
+}
+
+.template4_v1 .questionContainer .question {
+    margin-right: 0pt;
+}
+
+.template4_v1 .questionContainer .question {
+    margin-bottom: 11.25pt;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick] {
+    display: none;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_1] {
+    top: 510px;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_1] {
+    left: 220px;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_2] {
+    top: 6.6875pc;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_2] {
+    left: 141.75pt;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_3] {
+    top: 7.375pc;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_3] {
+    left: 382.5pt;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_4] {
+    top: 307px;
+}
+
+.template4_v1 .showAnswerCrossMark {
+    text-align: center;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_4] {
+    left: 2.083333333in;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_5] {
+    top: 500px;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_5] {
+    left: 514px;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_6] {
+    top: 3.364583333in;
+}
+
+[class~=template4_v1] [class~=tickMarkContainer] [class~=tick_6] {
+    left: 353.25pt;
+}
+
+[class~=template4_v1] [class~=showAnswerCrossMark] {
+    animation-name: crossBlinker;
+}
+
+[class~=template4_v1] [class~=showAnswerCrossMark] {
+    animation-duration: 1s;
+}
+
+[class~=template4_v1] [class~=showAnswerCrossMark] {
+    opacity: 0;
+}
+
+[class~=template4_v1] [class~=optionContainer] [class~=optClick][class~=filled] {
+    cursor: default;
+}
+
+@keyframes crossBlinker {
+    0% {
+        opacity: 1;
+    }
+    25% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
